@@ -22,8 +22,5 @@ Several standard machine learning classifiers were evaluated to determine the mo
 | :--- | :---: | :---: | :---: | :---: |
 | **LinearSVC** | **0.717** | **0.817** | **0.598** | **0.690** |
 | LGBMClassifier | 0.696 | 0.753 | 0.629 | 0.685 |
-| GradientBoosting | 0.663 | 0.688 | 0.660 | 0.674 |
-| XGBClassifier | 0.658 | 0.693 | 0.629 | 0.659 |
-
 ---
 *Disclaimer: This project is for educational purposes and does not substitute professional medical diagnosis.*
