@@ -4,6 +4,7 @@ This project implements a machine learning-based diagnostic tool to assist in th
 
 ## 🚀 Live Application
 Access the tool here: **[Diabetic Retinopathy Detection App](https://diabetic-retinbpathy-bdsr.streamlit.app/)**
+
 ## 📖 Overview
 Diabetic retinopathy is a complication of diabetes that affects the eyes. A **LinearSVC** model, trained on a clinical dataset, is implemented to classify patients as "Healthy" or "Patient". To maximize diagnostic sensitivity, the decision threshold was optimized to **-0.2**.
 
