@@ -11,8 +11,6 @@ Diabetic retinopathy is a complication of diabetes that affects the eyes. A **Li
 ## 📊 Dataset Information
 The model was trained on a clinical dataset consisting of 921 entries. The data includes various ocular metrics used for diagnostic purposes:
 
-* **Total Features:** 18 (excluding 'ID', 'quality', and 'Class').
-* **Target Variable:** 'Class' (0: Healthy, 1: Patient).
 * **Key Features:** * **Microaneurysms (ma1-ma6):** Indicators of early-stage retinopathy.
     * **Exudates (exudate1-exudate8):** Deposits of protein and lipids.
     * **Morphological Data:** Macula-optic disc distance, optic disc diameter, and AM/FM classification.
